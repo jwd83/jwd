@@ -1,3 +1,6 @@
+---
+title: The Maze
+---
 # Welcome to [The Maze](https://jwd.me)
 
 A collection of my thoughts and notes as life long [[Programming Languages|computer programmer]] and [[Naturalism|naturalist]].
