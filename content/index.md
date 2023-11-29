@@ -1,8 +1,6 @@
 ---
-title: The Maze
+title: Welcome to The Maze
 ---
-# Welcome to [The Maze](https://jwd.me)
-
 A collection of my thoughts and notes as life long [[Programming Languages|computer programmer]] and [[Naturalism|naturalist]].
 
 Some of my favorite writers include [[Jacob Bronowski]], [[Sam Harris]], [[Lawrence M. Krauss]], [[Richard Dawkins]] & [[Carl Sagan]].
