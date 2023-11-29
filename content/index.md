@@ -9,6 +9,6 @@ Recently I have been learning about [[Godot 4]] and experimenting with [[PyGame]
 
 I started this project in 2023 to categorize my own knowledge and root out it's weak points.
 
-The markdown for this site is available on [GitHub](https://github.com/jwd83/obsidian-the-maze).
+The markdown for this site is available on [GitHub](https://github.com/jwd83/jwd).
 
 
