@@ -1,5 +1,3 @@
-I view religion and mythology as one in the same.
-
 [[Karen Armstrong]]'s [[The History of God]] has a great deal of information on humanities transition from polytheism to monotheism and provides a timeline of authors and edits to the bible supported by evidence and the majority of religious studies professors, archeologists and anthropologists.
 
 The YouTube channel evidence has s great video series on a fundamentalists conversion to [[Atheism]]. The series features a [summary of Karen's book](https://www.youtube.com/watch?v=MlnnWbkMlbg). 
